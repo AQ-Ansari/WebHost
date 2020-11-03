@@ -1,0 +1,39 @@
+.navbar-main .navbar-nav>li>a {
+    color: #000;
+    font-weight: 500;
+}
+.navbar-main .navbar-nav>li>a:hover,
+.navbar-main .navbar-nav>li>a:focus,
+.navbar-main .navbar-nav>li>a:active{
+    background-color: #01b5cc;
+}
+section#home-banner{
+    padding: 90px 0 60px;
+    background-color: #01b5cc;
+}
+.domain-checker-container{
+    background-color: #01b5cc !important;
+    background: #01b5cc !important;
+}
+.home-shortcuts{
+    background: #F7FAFE;
+    color: #000;
+}
+.home-shortcuts li a{
+    color: #333;
+}
+.home-shortcuts li{
+    padding: 20px 0px;
+}
+#footer ul li{
+    float: left;
+    list-style: none;
+    margin: 0px 10px;
+}
+section#footer{
+    padding:10px 10px;
+}
+#footer ul li a,
+ul li#Secondary_Navbar-Account a{
+    color:#666;
+}
